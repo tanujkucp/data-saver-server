@@ -18,7 +18,7 @@
     "express": "4.16.2",
     "lodash": ">=4.17.19",
     "request": "^2.83.0",
-    "sharp": "^0.18.4"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.1.6"
